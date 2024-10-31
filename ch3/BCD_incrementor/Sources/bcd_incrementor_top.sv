@@ -1,16 +1,16 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: Emmanuel Marcial
 // 
-// Create Date: 10/30/2024 10:04:28 PM
+// Create Date: 10/30/2024 07:31:33 PM
 // Design Name: 
-// Module Name: bcd_incrementor_top
-// Project Name: 
+// Module Name: bcd_incrementor
+// Project Name: BCD_Incrementor
 // Target Devices: 
 // Tool Versions: 
 // Description: 
-// 
+// For Experiment 3.12.4 in FPGA Prototyping by SystemVerilog Examples by Pong Chu
 // Dependencies: 
 // 
 // Revision:
